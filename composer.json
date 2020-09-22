@@ -1,0 +1,10 @@
+{
+    "name": "ardi/framework",
+    "authors": [
+        {
+            "name": "Ardi K.",
+            "email": "karpson153@gmail.com"
+        }
+    ],
+    "require": {}
+}
